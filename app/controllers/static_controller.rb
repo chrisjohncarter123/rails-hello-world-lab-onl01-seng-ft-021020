@@ -1,3 +1,3 @@
-def about
-  render "some_page"
+def hello_world
+  render "hello_world"
 end
